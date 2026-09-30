@@ -22,3 +22,6 @@ ol {
 body {
     background-color: lightgray;
 }
+li {
+    margin-bottom: 10px;
+}
